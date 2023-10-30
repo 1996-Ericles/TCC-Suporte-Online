@@ -3,7 +3,7 @@
 	$servidor= "localhost";
 	$usuario = "root";
 	$senha   = "";
-	
+
 //banco de dados criado
 	$bd = "tcc";
 
